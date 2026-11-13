@@ -1,9 +1,7 @@
 <div align="center">
-  <h1>
-    <marquee behavior="alternate" direction="right">
-      👋 Hello, I'm ELAVENY
-    </marquee>
-  </h1>
+  <marquee behavior="alternate" direction="right" scrollamount="5">
+    <h1>Hey there! 👋 I'm ELAVENY 🚀</h1>
+  </marquee>
 </div>
 
 <div align="center">
