@@ -1,8 +1,14 @@
 <div align="center">
+  <h1>
+    <marquee behavior="alternate" direction="right">
+      👋 Hello, I'm ELAVENY
+    </marquee>
+  </h1>
+</div>
 
-# 👋 Hello, I'm ELAVENY
-
-### MERN Stack Developer | Full Stack Web Developer
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+Developer" />
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Passionate+MERN+Stack+Developer;Building+Modern+Web+Applications;MongoDB+%7C+Express.js+%7C+React.js+%7C+Node.js;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
 
