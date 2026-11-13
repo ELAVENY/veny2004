@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # 👋 Hello, I'm ELAVENY
 
@@ -10,179 +10,113 @@
 
 </div>
 
-<div align="center">
-
 ## 👨‍💻 About Me
 
-</div>
-
-<div align="center">
-
-🚀 Passionate Full Stack Developer focused on building modern web applications.
-
-💻 Interested in creating responsive, user-friendly and scalable applications.
-
-🌱 Continuously learning new technologies and improving development skills.
-
-⚡ Exploring the MERN Stack and modern JavaScript ecosystem.
-
-🎯 Focused on building real-world projects and growing as a developer.
-
-🤝 Open to collaboration, innovation and learning opportunities.
-
-</div>
+- 🚀 Passionate MERN Stack Developer.
+- 💻 Interested in building modern web applications.
+- 🌱 Continuously learning new technologies.
+- ⚡ Exploring frontend and backend development.
+- 🎯 Focused on improving development skills.
+- 🤝 Open to collaboration and new opportunities.
 
 ---
-
-<div align="center">
 
 ## 📬 Connect With Me
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/veny2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="www.linkedin.com/in/elaveny-sivanesan-590834356">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</div>
 
 ---
 
-<div align="center">
-
-# 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
 
 ### 💻 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap"/>
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-### 🔧 Development Tools
+### 🔧 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 
 ---
 
-<div align="center">
 
-# 🚀 Featured Projects
 
-### 📌 SCOS Pro
+## 📊 GitHub Statistics
 
-**Office Management System**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-A modern office management platform focused on improving digital document workflows.
-
-- Next.js & TypeScript
-- Inward Letter Management
-- Document Scanning Integration
-
-### 📌 VOXY
-
-**Desktop Application Development**
-
-Exploring modern desktop application development and native system integration.
-
-- Tauri 2
-- Rust
-- Svelte
-- Frontend & Backend Communication
-
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
 
-<div align="center">
+## 🔥 GitHub Streak
 
-# 📊 GitHub Statistics
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 ---
 
-<div align="center">
+## 🐍 Contribution Activity
 
-# 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 
 ---
 
-<div align="center">
+## ⚙️ Currently Working On
 
-# 🐍 Contribution Activity
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
-
-</div>
-
----
-
-<div align="center">
-
-# ⚙️ Currently Working On
-
-🔹 Building modern web applications.
-
-🔹 Exploring MERN Stack development.
-
-🔹 Improving frontend and backend development skills.
-
-🔹 Working with RESTful APIs and database management.
-
-</div>
+- Building modern web applications.
+- Exploring MERN Stack development.
+- Improving frontend and backend skills.
+- Working with RESTful APIs and databases.
 
 ---
 
-<div align="center">
+## 📚 Currently Learning
 
-# 📚 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,typescript,nextjs" />
-
-</div>
-
----
-
-<div align="center">
-
-# 🎯 Goals
-
-🚀 Become a professional Full Stack Developer.
-
-💡 Build scalable and production-ready applications.
-
-🌍 Contribute to meaningful software projects.
-
-📈 Continuously learn and grow in technology.
-
-</div>
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- TypeScript
+- Next.js
 
 ---
 
-<div align="center">
+## 🎯 Goals
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome!" />
+- Become a professional Full Stack Developer.
+- Build scalable web applications.
+- Contribute to meaningful software projects.
+- Continuously learn new technologies.
 
-### ⭐ Code • Learn • Build • Repeat
+---
 
-</div>
+### ⭐ Thanks for visiting my GitHub profile!
+
+**Code • Learn • Build • Repeat 🚀**
+
+
+
+
+
+
+
+
+ 
+
+
 
 
 
