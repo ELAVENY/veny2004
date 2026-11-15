@@ -13,6 +13,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 </div>
+<div align="center">
 
 ## 👨‍💻 About Me
 
@@ -111,6 +112,7 @@
 ### ⭐ Thanks for visiting my GitHub profile!
 
 **Code • Learn • Build • Repeat 🚀**
+</div>
 
 
 
