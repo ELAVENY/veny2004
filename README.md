@@ -56,9 +56,10 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 
 ---
+
 ## 📊 GitHub Statistics
 
-<div align="left">
+<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=veny2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veny2004&layout=compact&theme=tokyonight&hide_border=true" />
@@ -82,20 +83,20 @@
 
 ## ⚙️ Currently Working On
 
-- Building modern web applications.
-- Exploring MERN Stack development.
-- Improving frontend and backend skills.
-- Working with RESTful APIs and databases.
+  Building modern web applications.
+  Exploring MERN Stack development.
+  Improving frontend and backend skills.
+  Working with RESTful APIs and databases.
 
 ---
 
 ## 📚 Currently Learning
 
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-- TypeScript
+  MongoDB
+  Express.js
+  React.js
+  Node.js
+  TypeScript
 - Next.js
 
 ---
