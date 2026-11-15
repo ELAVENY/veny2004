@@ -61,28 +61,29 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
-
----
-
-<h2 align="center">📊 GitHub Statistics</h2>
+ 
+## 📊 GitHub Statistics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=veny2004&show_icons=true&theme=tokyonight&hide_border=true" />
+
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veny2004&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-
----
-
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=veny2004&theme=tokyonight&hide_border=true"/>
-
-
+<p> align="center">
+  <img width="60%" src="https://streak-stats.demolab.com/?user=veny2004&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+
+
+
+
+
 
 ## 🐍 Contribution Activity
 
