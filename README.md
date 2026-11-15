@@ -17,12 +17,12 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Passionate MERN Stack Developer.
-- 💻 Interested in building modern web applications.
-- 🌱 Continuously learning new technologies.
-- ⚡ Exploring frontend and backend development.
-- 🎯 Focused on improving development skills.
-- 🤝 Open to collaboration and new opportunities.
+ 🚀 Passionate MERN Stack Developer.
+ 💻 Interested in building modern web applications.
+ 🌱 Continuously learning new technologies.
+ ⚡ Exploring frontend and backend development.
+ 🎯 Focused on improving development skills.
+ 🤝 Open to collaboration and new opportunities.
 
 ---
 
