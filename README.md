@@ -57,10 +57,6 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
  
 ## 📊 GitHub Statistics
 
@@ -79,11 +75,6 @@
 </p>
 
 ---
-
-
-
-
-
 
 ## 🐍 Contribution Activity
 
