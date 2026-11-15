@@ -70,7 +70,7 @@
 
 ## 🔥 GitHub Streak
 
-<p> align="center">
+
   <img width="60%" src="https://streak-stats.demolab.com/?user=veny2004&theme=tokyonight&hide_border=true" />
 </p>
 
